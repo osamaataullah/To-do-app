@@ -47,10 +47,3 @@ This is a REST API-based To-Do application built using Java, Spring Boot, MySQL,
 
 - JWT authentication is required.
 - Admins can manage all To-Dos.
-
----
-
-### Author
-
-Your Name - [GitHub](https://github.com/your-username)
-

@@ -20,7 +20,7 @@ This is a REST API-based To-Do application built using Java, Spring Boot, MySQL,
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/To-Do-App.git
+   git clone https://github.com/osamaataullah/To-do-app.git
    cd To-Do-App
    ```
 2. **Database Setup:**
